@@ -1,5 +1,7 @@
 # Image Analysis with Ollama and Streamlit
 
+Slides PDF and Video are in the Zip file
+
 ### **Project Setup**
 
 #### **Creating a Virtual Environment**
